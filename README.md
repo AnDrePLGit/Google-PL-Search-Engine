@@ -5,6 +5,6 @@ Add polish version of Google as your default search engine.
 
 //----------
 
-Dodatek Firefoxa zmieniający domyslną wyszukiwarkę na Google.pl.
+Dodatek Firefoxa zmieniający domyślną wyszukiwarkę na Google.pl.
 
 Dodaj polską wersję Google jako domyślną wyszukiwarkę.
